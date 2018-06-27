@@ -14,7 +14,7 @@ See [`notes_pdf`](notes_pdf/) for a pdf of the theory and notes on Time Series m
 ## Notebooks
 
 
-See [`notebooks/](notebooks/) for the notebooks on Time Series modelling for different time series modelling techniques and explanations on the insights derived from different modelling techniques
+See [`notebooks/`](notebooks/) for the notebooks on Time Series modelling for different time series modelling techniques and explanations on the insights derived from different modelling techniques
 
 ## Future Implemtations:
 
